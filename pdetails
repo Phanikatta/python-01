@@ -1,0 +1,7 @@
+print('Name     :Sunil')
+print("fname    :Satyanarayana")
+print('mname    :Lakshmi');
+print('study    :Btech-CSE')
+print('hobbies  :Watching movies,listening music')
+print('interests:sports')
+print('color    :Black')
